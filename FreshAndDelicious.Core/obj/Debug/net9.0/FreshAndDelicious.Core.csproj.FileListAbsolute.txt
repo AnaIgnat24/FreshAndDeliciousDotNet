@@ -1,0 +1,14 @@
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.AssemblyInfoInputs.cache
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.AssemblyInfo.cs
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.csproj.CoreCompileInputs.cache
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.csproj.AssemblyReference.cache
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/bin/Debug/net9.0/FreshAndDelicious.Core.deps.json
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/bin/Debug/net9.0/FreshAndDelicious.Core.runtimeconfig.json
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/bin/Debug/net9.0/FreshAndDelicious.Core.dll
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/bin/Debug/net9.0/FreshAndDelicious.Core.pdb
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.dll
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/refint/FreshAndDelicious.Core.dll
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.pdb
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/FreshAndDelicious.Core.genruntimeconfig.cache
+/Users/claudiuignat/Documents/Ana's Documents/FreshAndDeliciousDotNet/FreshAndDelicious.Core/obj/Debug/net9.0/ref/FreshAndDelicious.Core.dll
